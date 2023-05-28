@@ -2,3 +2,4 @@ vall_resolusi
 -konsisten untuk belajar web programing
 -pahami pemograman
 -membuat alur belajar yang jelas
+-membuat web pribadi
